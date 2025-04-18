@@ -1,0 +1,14 @@
+C:\Users\USER\BaseActivity\BaseActivity\bin\Debug\net9.0\BaseActivity.exe
+C:\Users\USER\BaseActivity\BaseActivity\bin\Debug\net9.0\BaseActivity.deps.json
+C:\Users\USER\BaseActivity\BaseActivity\bin\Debug\net9.0\BaseActivity.runtimeconfig.json
+C:\Users\USER\BaseActivity\BaseActivity\bin\Debug\net9.0\BaseActivity.dll
+C:\Users\USER\BaseActivity\BaseActivity\bin\Debug\net9.0\BaseActivity.pdb
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\BaseActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\BaseActivity.AssemblyInfoInputs.cache
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\BaseActivity.AssemblyInfo.cs
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\BaseActivity.csproj.CoreCompileInputs.cache
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\BaseActivity.dll
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\refint\BaseActivity.dll
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\BaseActivity.pdb
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\BaseActivity.genruntimeconfig.cache
+C:\Users\USER\BaseActivity\BaseActivity\obj\Debug\net9.0\ref\BaseActivity.dll
